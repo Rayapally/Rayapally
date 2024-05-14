@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Vikash Rayapally</h1>
 <h3 align="center">A passionate Jnr.DevOps Engineer from India</h3>
-<img src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="GIF">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
