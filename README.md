@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/Rayapally/Rayapally/raw/main/Purple%20Gradient%20Gaming%20Youtube%20Channel%20Art.png)](https://github.com/Rayapally)
 
 <h1 align="center">Hi 👋, I'm Vikash Rayapally</h1>
 <h3 align="center">A passionate Jnr.DevOps Engineer from India</h3>
